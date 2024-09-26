@@ -1,5 +1,5 @@
 - 👋  I’m @washiemorey Washingtone Morey
-- 👀 I’m Data Analyst that upskills, learns,relearns and unlearns daily
+- 👀 I’m Data Analyst/Scientist that upskills, learns,relearns and unlearns daily
 - 🌱 I’m currently learning how to use various Softwares for Data Analysis;SQL,PowerBi
 - 💞️ I’m looking to collaborate on projects on Excel,Sql,PowerBi and R
 - 📫 Reach out me through Email: washingtoneoburu@gmail.com
